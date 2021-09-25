@@ -6,8 +6,8 @@ Change : to fix bug1...
 
 Change : by teamate for WI2 on master.
 
-
 Chenage to fix bug2.
 
-
 Change : by teamate for WI3 to check rebase.
+
+Change : for CR2 on remote master by teamate with conflict rebase.
