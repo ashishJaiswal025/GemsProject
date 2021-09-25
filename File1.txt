@@ -2,12 +2,14 @@ welcome Git Session...
 
 Hello world..
 
-Change : to fix bug1...
+Change 1: to fix bug1...
 
-Change : by teamate for WI2 on master.
+Change 2: by teamate for WI2 on master.
 
-Chenage to fix bug2.
+Change 3: to fix bug2.
 
-Change : by teamate for WI3 to check rebase.
+Change 4: by teamate for WI3 to check rebase.
 
-Change : for CR2 on remote master by teamate with conflict rebase.
+Change 5: for CR2 on remote master by teamate with conflict rebase.
+
+change 6: Change done on local master to verify rebase bug3.
